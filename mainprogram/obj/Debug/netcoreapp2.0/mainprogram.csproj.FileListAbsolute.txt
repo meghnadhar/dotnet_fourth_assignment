@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\bin\Debug\netcoreapp2.0\mainprogram.deps.json
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\bin\Debug\netcoreapp2.0\mainprogram.runtimeconfig.json
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\bin\Debug\netcoreapp2.0\mainprogram.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\bin\Debug\netcoreapp2.0\mainprogram.dll
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\bin\Debug\netcoreapp2.0\mainprogram.pdb
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\obj\Debug\netcoreapp2.0\mainprogram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\obj\Debug\netcoreapp2.0\mainprogram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\obj\Debug\netcoreapp2.0\mainprogram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\obj\Debug\netcoreapp2.0\mainprogram.dll
+C:\Users\Administrator\Desktop\Assignment4\mainprogram\obj\Debug\netcoreapp2.0\mainprogram.pdb
