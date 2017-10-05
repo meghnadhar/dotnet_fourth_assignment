@@ -9,11 +9,11 @@ namespace mainprogram
         {
             try
             {
-                ProductDetailsFill pdf = new ProductDetailsFill();
+                ProductDetailsFill productdetailsfill = new ProductDetailsFill();
 
-                List<ProductGroup> PG = pdf.ProductGroupFill();
+                List<ProductGroup> productgrouplist =productdetailsfill.ProductGroupFill();
 
-                foreach (ProductGroup item in PG)
+                foreach (ProductGroup item in productgrouplist)
                 {
                     if(item.Name == "Dairy" && item.Name == str)
                         return 1;
